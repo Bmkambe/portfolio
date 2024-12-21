@@ -985,7 +985,7 @@ label {
   position: relative;
   width: 43px;
   height: 24.83px;
-  background-color: #1e2530;
+  background-color: #e7e3e3;
   margin: 12.41px 0;
   transition: all 0.3s ease 0s;
 }
@@ -999,12 +999,12 @@ label {
 }
 .contact-social-hex::before {
   bottom: 100%;
-  border-bottom: 12.41px solid #1e2530;
+  border-bottom: 12.41px solid #e7e3e3;
 }
 .contact-social-hex::after {
   top: 100%;
   width: 0;
-  border-top: 12.41px solid #1e2530;
+  border-top: 12.41px solid #ebafde;
 }
 .contact-social-hex:hover::after {
   border-bottom-color: #ebafde;
