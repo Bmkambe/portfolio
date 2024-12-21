@@ -1028,7 +1028,7 @@ label {
   margin: 0;
 }
 .contact-form .input-icon {
-  background-color: #1e2530;
+  background-color: #ebafde;
   border-radius: 3px 0 0 3px;
   border-right: 1px solid rgba(255, 255, 255, 0.2);
   line-height: 48px;
@@ -1041,7 +1041,7 @@ label {
   top: 0;
 }
 .contact-form .form-control {
-  background-color: #1e2530;
+  background-color: #e7e3e3;
   color: #bcbcbc;
   border: 0 none;
   border-radius: 3px;
