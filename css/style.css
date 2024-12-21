@@ -985,7 +985,7 @@ label {
   position: relative;
   width: 43px;
   height: 24.83px;
-  background-color: #e7e3e3;
+  background-color: #222121;
   margin: 12.41px 0;
   transition: all 0.3s ease 0s;
 }
@@ -1041,7 +1041,7 @@ label {
   top: 0;
 }
 .contact-form .form-control {
-  background-color: #e7e3e3;
+  background-color: #252525;
   color: #faf5f5d0;
   border: 0 none;
   border-radius: 3px;
